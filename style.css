@@ -1,0 +1,25 @@
+#figure {
+    margin: 15px;
+    transition: .5s ease-out;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+}
+
+.rectangle {
+    width: 150px;
+    height: 100px;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+#form {
+    margin: 0 auto;
+    width: 200px;
+}
